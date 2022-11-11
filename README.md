@@ -26,4 +26,4 @@ CREATE ROLE admin WITH LOGIN PASSWORD 'test';
 CREATE DATABASE testdb;
 ALTER USER admin WITH SUPERUSER;
 
-5) 
+5) npm run dev
